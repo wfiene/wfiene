@@ -3,18 +3,20 @@
 
 - 🔭 I’m currently working on **polishing my current projects and brainstorming new ones**
 
-- 🌱 I’m plan to learn **TypeScript, Django**
+- 🌱 I am planning to learn **TypeScript, Django**
 
 - 💬 Ask me about **developing, recovery, gym, or video games**
 
 - 📫 How to reach me **fienedev@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GDQQfmLE0y34tNr3LKOjPpKDRS7qyA6GN3pm-FoKtvs/edit?usp=sharing](https://docs.google.com/document/d/1GDQQfmLE0y34tNr3LKOjPpKDRS7qyA6GN3pm-FoKtvs/edit?usp=sharing)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1GDQQfmLE0y34tNr3LKOjPpKDRS7qyA6GN3pm-FoKtvs/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a pretty good cook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/walker-fiene-70045523b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/walker-fiene-70045523b/" height="30" width="40" /></a>
+<a href="https://discord.gg/Walker Fiene#8264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Walker Fiene#8264" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
