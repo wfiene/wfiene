@@ -5,11 +5,11 @@
 
 - 🌱 I am planning to learn **TypeScript and Django**
 
-- 💬 Ask me about **developing, recovery, gym, or video games**
+- 💬 Ask me about **developing, the gym, or video games**
 
 - 📫 How to reach me **fienedev@gmail.com**
 
-- ⚡ Fun fact **I'm a pretty good cook**
+- ⚡ Fun fact **Iv'e been in recovery for over 7 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
