@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **polishing my current projects and brainstorming new ones**
 
-- 🌱 I am planning to learn **TypeScript, Django**
+- 🌱 I am planning to learn **TypeScript and Django**
 
 - 💬 Ask me about **developing, recovery, gym, or video games**
 
