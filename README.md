@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walker!</h1>
 <h3 align="center">A passionate full stack developer from Massachusetts</h3>
 
-- 🔭 I’m currently working on **polishing my current projects and brainstorming new ones**
+- 🔭 I’m currently participating in **a fall software development internship**
 
 - 🌱 I am planning to learn **TypeScript and Django**
 
