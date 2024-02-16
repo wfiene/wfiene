@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fienedev@gmail.com**
 
-- ⚡ Fun fact **Iv'e been in recovery for over 7 years**
+- ⚡ Fun fact **I've been in recovery for over 7 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
